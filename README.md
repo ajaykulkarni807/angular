@@ -1,0 +1,2 @@
+# angular
+amgular basic project
